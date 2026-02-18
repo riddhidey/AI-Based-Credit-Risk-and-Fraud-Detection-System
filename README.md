@@ -1,7 +1,7 @@
 # Credit_Risk_Analyzer
-“AI-Based Credit Risk Analyzer – FinTech Project”
+“AI-Based Credit Risk and Fraud Detection System  – FinTech Project”
 
-# 💳 AI-Based Credit Risk Analyzer
+# 💳AI-Based Credit Risk and Fraud Detection System 
 
 ## Project Overview
 This is a **FinTech software application** that predicts the credit risk of a loan applicant using a trained **Logistic Regression model**.  
