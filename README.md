@@ -1,4 +1,4 @@
-# Credit_Risk_Analyzer
+# AI-Based Credit Risk and Fraud Detection System 
 “AI-Based Credit Risk and Fraud Detection System  – FinTech Project”
 
 # 💳AI-Based Credit Risk and Fraud Detection System 
